@@ -55,7 +55,7 @@ Before you get started, please make sure you have the following installed:
    - you will see the content-script panel and side panel
 
 
-## 🚀 Tech Stack
+## ❇️ Tech Stack
 
 - ✅ **Wxt**: [Wxt](https://wxt.dev)
 - ✅ **React**: [React](https://react.dev/)
