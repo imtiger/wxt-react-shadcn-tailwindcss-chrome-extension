@@ -1,0 +1,9 @@
+{
+  "home": "首页",
+  "settings": "设置",
+  "themeSettings": "主题设置",
+  "i18nSettings": "界面语音",
+  "introduce": "简介",
+  "description": "这是一个chrome 浏览器扩展的模板，使用 Wxt、React、Tailwind css 、 Shadcn ui、Typescript 构建。\n支持暗黑模式和本地化",
+  "reference": "参考"
+}
