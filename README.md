@@ -62,6 +62,17 @@ Before you get started, please make sure you have the following installed:
 - ✅ **Tailwind css**: [Tailwind css](https://tailwindcss.com)
 - ✅ **Shadcn UI**: [Shadcn UI](https://ui.shadcn.com)
 
+## 🚀 Localization and i18n 
+
+The locales file in the locales folder ,and you can edit it.
+- [locales](locales)
+- [i18nConfig.ts](components/i18nConfig.ts)
+- [i18n.ts](components/i18n.ts)
+- you can call initTranslation method in the [i18n.ts](components/i18n.ts) with different namespaces ,and only load the namespace json file.
+```typescript
+initTranslations(i18nConfig.defaultLocale, ["common", "content"])
+```
+
 ## 👀 Considerations
 - Chrome extension tailwind css rem not working shadow dom.
 
@@ -103,9 +114,9 @@ browser.action.onClicked.addListener((tab) => {
 
 ## 👨‍🚀About Me
 
-- Businessman 、Full-Stack Engineer
+- Full-Stack Engineer
 
-- Once worked at Tencent and Alibaba, paid over 30 million RMB in tuition fees as an entrepreneur, but now no longer in entrepreneurship and is a pure businessman. **
+- Once worked at Tencent and Alibaba
 
 [Github](https://github.com/imtigerchew)  
 [Twitter/X](https://twitter.com/imtigerchew)  
