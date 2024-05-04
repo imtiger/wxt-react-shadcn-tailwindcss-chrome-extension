@@ -14,7 +14,7 @@ Support dark mode and localization </em>
 
 <p align="center">
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://twitter.com/imtigerchew">🐦 X About me</a>
+<a href="https://twitter.com/imtigerchew" target="_blank">🐦 X About me</a>
 </p>
 
 ---
@@ -39,14 +39,14 @@ Before you get started, please make sure you have the following installed:
 
    - **For Mac/Linux users** :apple: :penguin:
    ```bash
-   git clone https://github.com/reworkd/AgentGPT.git
+   git clone git@github.com:imtiger/wxt-react-shadcn-tailwindcss-chrome-extension.git
    cd wxt-react-shadcn-tailwindcss-chrome-extension
    npm install
    npm run dev
    ```
    - **For Windows users** :windows:
    ```bash
-   git clone https://github.com/reworkd/AgentGPT.git
+   git clone git@github.com:imtiger/wxt-react-shadcn-tailwindcss-chrome-extension.git
    cd wxt-react-shadcn-tailwindcss-chrome-extension
    npm install
    npm run dev
